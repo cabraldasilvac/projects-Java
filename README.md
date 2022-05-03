@@ -52,7 +52,7 @@ Possibilitar que o aluno entenda o que são variáveis, como criá-las e manipul
 ---
 ### AULA 02 - TIPOS DE DADOS
 ---
-### Conceituação - Tipos de dados
+### Conceituação - Tipos de Dados
 
 **“São os valores e consequentemente operações que as variáveis podem assumir e sofrer, respectivamente."**
 
@@ -67,7 +67,7 @@ Possibilitar que o aluno entenda o que são variáveis, como criá-las e manipul
 * Lógico
 * Objeto
 
-### Exemplo numeral:
+### Exemplo Numeral:
 
     • byte: - 128 até 127 ==> byte b=15;
     • Short: -32.768 até 32.767 ==> short s = -15785;
@@ -81,11 +81,11 @@ Possibilitar que o aluno entenda o que são variáveis, como criá-las e manipul
     • Char: carácteres de 16-bit Unicode ==> char c = ‘\u0084’ou char c = ‘T’;
     • String: um tipo “especial”==> String s = “T”;
 
-### Exemplo lógico:
+### Exemplo Lógico:
 
     • Boolean: true e false ==> boolean s = false;
 
-### Exemplo objeto:
+### Exemplo Objeto:
 
     • Cena dos próximos capítulos. Matéria a ser estudada.
 
