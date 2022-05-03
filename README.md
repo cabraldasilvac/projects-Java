@@ -60,7 +60,7 @@ Possibilitar que o aluno entenda o que são variáveis, como criá-las e manipul
 * Estática(forte) vs Dinâmica(fraco)
 * Primitivo vs Composto
 
-### Opções de tipos:
+### Opções de Tipos:
 
 * Textual
 * Numeral
@@ -120,8 +120,8 @@ Possibilitar que o aluno entenda o que são variáveis, como criá-las e manipul
 
 ### Objetivos
 
-    1 - Entender o que são
-    2 - Saber como usar cada um
+    1 - Entender o que são Operadores Aritméticos
+    2 - Saber como usar cada um deles
 
 ### Conceituação
 
