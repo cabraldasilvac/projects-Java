@@ -1,4 +1,4 @@
 # Teste de versionamento.
 Controle de Versão Git+GitHub em qualquer projeto.
 
-treinamento de versionamento de código
+Treinamento de versionamento de código.
