@@ -5,3 +5,11 @@ Treinamento de versionamento de código.
 
 Acrescentando mais uma linha.
 Versionando codigo..
+
+
+Git status
+git add +A
+git status
+git commit -m " colocar o texto aqui"
+git status
+git push 
